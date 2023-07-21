@@ -1,0 +1,19 @@
+#root {
+  font-family: sans-serif;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.lists {
+  list-style: none;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  margin: 5px;
+  gap: 10px;
+}
